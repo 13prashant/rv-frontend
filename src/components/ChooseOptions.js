@@ -1,11 +1,14 @@
+// Styled components
 import { Tab } from './styles/Tab.styled'
 import { StyledCard } from './styles/Card.styled'
 import { Flex } from './styles/Flex.styled'
 import { TitleBar } from './styles/TitleBar.styled'
 import { OptionBar } from './styles/OptionBar.styled'
 import { Select } from './styles/Select.styled'
-import { AiOutlineDown } from 'react-icons/ai'
 import { Add, Expander, Product } from './styles/ChooseOptions.styled'
+
+// React-icons
+import { AiOutlineDown } from 'react-icons/ai'
 
 const tabs = [
     'RVs',

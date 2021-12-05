@@ -1,6 +1,4 @@
-import { useState } from 'react'
-
-// Styled components
+// Styled Components
 import { StyledHeader, Nav,  Menu } from './styles/Header.styled'
 import { Container } from './styles/Container.styled'
 import { Button } from './styles/Button.styled'

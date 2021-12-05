@@ -1,7 +1,12 @@
-import { ThemeProvider } from 'styled-components'
+// Styled
 import GlobalStyles from './components/styles/Global'
+import { ThemeProvider } from 'styled-components'
+
+// Components
 import Header from './components/Header'
 import ChooseOptions from './components/ChooseOptions'
+
+// Styled Components
 import { Container } from './components/styles/Container.styled'
 
 const theme = {
